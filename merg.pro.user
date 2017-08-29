@@ -1,0 +1,226 @@
+<!DOCTYPE QtCreatorProject>
+<qtcreator>
+ <data>
+  <variable>RunConfiguration0-BaseEnvironmentBase</variable>
+  <value type="int">2</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-CommandLineArguments</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">-i</value>
+   <value type="QString">1.pcap</value>
+   <value type="QString">-o</value>
+   <value type="QString">oo</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>RunConfiguration0-ProFile</variable>
+  <value type="QString">merg.pro</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-RunConfiguration.name</variable>
+  <value type="QString">merg</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UseDyldImageSuffix</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UseTerminal</variable>
+  <value type="bool">true</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserEnvironmentChanges</variable>
+  <valuelist type="QVariantList"/>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserSetName</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserSetWorkingDirectory</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserWorkingDirectory</variable>
+  <value type="QString"></value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-type</variable>
+  <value type="QString">Qt4ProjectManager.Qt4RunConfiguration</value>
+ </data>
+ <data>
+  <variable>activeRunConfiguration</variable>
+  <value type="int">0</value>
+ </data>
+ <data>
+  <variable>activebuildconfiguration</variable>
+  <value type="QString">Debug</value>
+ </data>
+ <data>
+  <variable>buildConfiguration-Debug</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Debug</value>
+   <value key="QtVersionId" type="int">3</value>
+   <value key="ToolChain" type="int">0</value>
+   <value key="addQDumper" type=""></value>
+   <value key="buildConfiguration" type="int">2</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Debug-buildstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Debug</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-97l4I3rwFW,guid=b9352fb684db3e8dcc8d241000000020</value>
+    <value type="QString">DEFAULTS_PATH=/usr/share/gconf/gnome-fallback.default.path</value>
+    <value type="QString">DESKTOP_SESSION=gnome-fallback</value>
+    <value type="QString">DISPLAY=:0.0</value>
+    <value type="QString">GDMSESSION=gnome-fallback</value>
+    <value type="QString">GIO_LAUNCHED_DESKTOP_FILE=/home/jergus/.local/share/applications/Nokia-QtCreator.desktop</value>
+    <value type="QString">GIO_LAUNCHED_DESKTOP_FILE_PID=6754</value>
+    <value type="QString">GNOME_DESKTOP_SESSION_ID=this-is-deprecated</value>
+    <value type="QString">GNOME_KEYRING_CONTROL=/tmp/keyring-2e9k3b</value>
+    <value type="QString">GPG_AGENT_INFO=/tmp/keyring-2e9k3b/gpg:0:1</value>
+    <value type="QString">GTK_MODULES=canberra-gtk-module</value>
+    <value type="QString">HOME=/home/jergus</value>
+    <value type="QString">LANG=sk_SK.UTF-8</value>
+    <value type="QString">LD_LIBRARY_PATH=/home/jergus/qtsdk-2010.03/lib/qtcreator:</value>
+    <value type="QString">LOGNAME=jergus</value>
+    <value type="QString">MANDATORY_PATH=/usr/share/gconf/gnome-fallback.mandatory.path</value>
+    <value type="QString">PATH=/home/jergus/qtsdk-2010.03/qt/bin:/usr/lib/lightdm/lightdm:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games</value>
+    <value type="QString">PT5HOME=/usr/local/PacketTracer5</value>
+    <value type="QString">PWD=/home/jergus</value>
+    <value type="QString">QTDIR=/home/jergus/qtsdk-2010.03/qt</value>
+    <value type="QString">SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1676,unix/ubuntu:/tmp/.ICE-unix/1676</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SPEECHD_PORT=7560</value>
+    <value type="QString">SSH_AGENT_PID=1721</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/keyring-2e9k3b/ssh</value>
+    <value type="QString">USER=jergus</value>
+    <value type="QString">XAUTHORITY=/home/jergus/.Xauthority</value>
+    <value type="QString">XDG_CONFIG_DIRS=/etc/xdg/xdg-gnome-fallback:/etc/xdg</value>
+    <value type="QString">XDG_CURRENT_DESKTOP=GNOME</value>
+    <value type="QString">XDG_DATA_DIRS=/usr/share/gnome-fallback:/usr/share/gnome:/usr/local/share/:/usr/share/</value>
+    <value type="QString">XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0</value>
+    <value type="QString">XDG_SESSION_COOKIE=df576ecfc492ea15f18b2a3b4c100bd2-1368642790.671394-1061886003</value>
+    <value type="QString">XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">/home/jergus/merg/merg.pro</value>
+    <value type="QString">-spec</value>
+    <value type="QString">linux-g++</value>
+    <value type="QString">-r</value>
+    <value type="QString">CONFIG+=debug</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/home/jergus/qtsdk-2010.03/qt/bin/qmake</value>
+   <value key="abstractProcess.enabled" type="bool">false</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/home/jergus/merg</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Debug-buildstep1</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Debug</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-97l4I3rwFW,guid=b9352fb684db3e8dcc8d241000000020</value>
+    <value type="QString">DEFAULTS_PATH=/usr/share/gconf/gnome-fallback.default.path</value>
+    <value type="QString">DESKTOP_SESSION=gnome-fallback</value>
+    <value type="QString">DISPLAY=:0.0</value>
+    <value type="QString">GDMSESSION=gnome-fallback</value>
+    <value type="QString">GIO_LAUNCHED_DESKTOP_FILE=/home/jergus/.local/share/applications/Nokia-QtCreator.desktop</value>
+    <value type="QString">GIO_LAUNCHED_DESKTOP_FILE_PID=6754</value>
+    <value type="QString">GNOME_DESKTOP_SESSION_ID=this-is-deprecated</value>
+    <value type="QString">GNOME_KEYRING_CONTROL=/tmp/keyring-2e9k3b</value>
+    <value type="QString">GPG_AGENT_INFO=/tmp/keyring-2e9k3b/gpg:0:1</value>
+    <value type="QString">GTK_MODULES=canberra-gtk-module</value>
+    <value type="QString">HOME=/home/jergus</value>
+    <value type="QString">LANG=sk_SK.UTF-8</value>
+    <value type="QString">LD_LIBRARY_PATH=/home/jergus/qtsdk-2010.03/lib/qtcreator:</value>
+    <value type="QString">LOGNAME=jergus</value>
+    <value type="QString">MANDATORY_PATH=/usr/share/gconf/gnome-fallback.mandatory.path</value>
+    <value type="QString">PATH=/home/jergus/qtsdk-2010.03/qt/bin:/usr/lib/lightdm/lightdm:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games</value>
+    <value type="QString">PT5HOME=/usr/local/PacketTracer5</value>
+    <value type="QString">PWD=/home/jergus</value>
+    <value type="QString">QTDIR=/home/jergus/qtsdk-2010.03/qt</value>
+    <value type="QString">SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1676,unix/ubuntu:/tmp/.ICE-unix/1676</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SPEECHD_PORT=7560</value>
+    <value type="QString">SSH_AGENT_PID=1721</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/keyring-2e9k3b/ssh</value>
+    <value type="QString">USER=jergus</value>
+    <value type="QString">XAUTHORITY=/home/jergus/.Xauthority</value>
+    <value type="QString">XDG_CONFIG_DIRS=/etc/xdg/xdg-gnome-fallback:/etc/xdg</value>
+    <value type="QString">XDG_CURRENT_DESKTOP=GNOME</value>
+    <value type="QString">XDG_DATA_DIRS=/usr/share/gnome-fallback:/usr/share/gnome:/usr/local/share/:/usr/share/</value>
+    <value type="QString">XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0</value>
+    <value type="QString">XDG_SESSION_COOKIE=df576ecfc492ea15f18b2a3b4c100bd2-1368642790.671394-1061886003</value>
+    <value type="QString">XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0</value>
+   </valuelist>
+   <value key="abstractProcess.IgnoreReturnValue" type="bool">false</value>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">-w</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/usr/bin/make</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/home/jergus/merg</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Debug-cleanstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Debug</value>
+   <value key="cleanConfig" type="bool">true</value>
+   <valuelist key="makeargs" type="QVariantList">
+    <value type="QString">clean</value>
+   </valuelist>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfigurations</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">Debug</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>buildstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString"></value>
+   <value key="mkspec" type="QString"></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildstep1</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString"></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildsteps</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">trolltech.qt4projectmanager.qmake</value>
+   <value type="QString">trolltech.qt4projectmanager.make</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>cleanstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString"></value>
+   <value key="clean" type="bool">true</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>cleansteps</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">trolltech.qt4projectmanager.make</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>defaultFileEncoding</variable>
+  <value type="QByteArray">System</value>
+ </data>
+ <data>
+  <variable>project</variable>
+  <valuemap type="QVariantMap"/>
+ </data>
+</qtcreator>
